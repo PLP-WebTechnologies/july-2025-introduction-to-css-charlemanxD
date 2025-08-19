@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif, 'open-sans';
+}
+
+.main-container {
+    margin: 16px;
+}
+
+.main-container #title {
+    margin-bottom: 16px;
+    font-family: system-ui;
+    font-size: 35px;
+    font-weight: 600;
+    background: lightcoral;
+    width: 100%;
+}
+
+.main-container p {
+    font-size: 18px;
+    font-family: monospace;
+    line-height: 1.6;
+    border: 2px solid black;
+    padding: 6px;
+}
+
